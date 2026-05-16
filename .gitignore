@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+.cache/
+
+# Data
+songs/
+*.wav
+*.mp3
+*.flac
+
+# OS
+.DS_Store

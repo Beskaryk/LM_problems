@@ -1,0 +1,7 @@
+jupyter
+faster-whisper
+librosa
+matplotlib
+pandas
+torch --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
